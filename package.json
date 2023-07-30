@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@smartdec/smartcheck": "^2.0.1"
+  }
+}
